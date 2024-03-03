@@ -1,0 +1,33 @@
+#hero-section {
+    background-image: url("Images/pic1.jpg");
+    min-height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+}
+
+#br-text {
+    background-color: rgba(0, 0, 0, 0.7);
+    display: inline-block;
+    padding: 8px 24px;
+}
+
+.architect-text {
+    letter-spacing: 4px;
+}
+
+#about-section {
+    filter: grayscale(70%);
+}
+
+a:hover {
+    color: rgb(80, 130, 173);
+    background-color: rgb(182, 168, 168);
+    border-radius: 30px;
+}
+
+button:hover {
+    color: rgb(80, 130, 173);
+    background-color: rgb(160, 144, 144);
+    border-radius: 30px;
+}
